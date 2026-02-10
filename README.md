@@ -25,6 +25,7 @@ linux
 ```bash
 source doctr-env/bin/activate
 ```
+install doctr
 ```sh
 pip install python-doctr[torch]
 ```
